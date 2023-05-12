@@ -7,6 +7,7 @@
 -   🎨 : Gagnant du prix du design
 -   👩‍🏫 : Gagnant du prix de la présentation
 -   🚀 : Gagnant du prix du concept
+-   💪 : Prix spécial du jury (Dépassement de soi)
 
 ## Teams
 
@@ -116,7 +117,7 @@
     </tr>
 </table>
 
-### Cheval de Troie
+### Cheval de Troie 💪
 
 <table>
     <tr>
