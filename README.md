@@ -1,6 +1,4 @@
-<h1 align="center">Welcome to RECAP Hackathon & Projet REMOTE FR 👋</h1>
-
-# Repo team REMOTE FR 02-2023
+<h1 align="center">Welcome to RECAP Hackathons & Projets REMOTE FR 👋</h1>
 
 Ici, nous allons consigner les informations relatives à nos projets et hackathon.
 
