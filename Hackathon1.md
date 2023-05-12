@@ -1,5 +1,13 @@
 # Hackathon 1 | 12/05/2023
 
+## LEGENDES
+
+-   🏆 : Gagnant du hackathon
+-   ⚙️ : Gagnant du prix de la technique
+-   🎨 : Gagnant du prix du design
+-   👩‍🏫 : Gagnant du prix de la présentation
+-   🚀 : Gagnant du prix du concept
+
 ## Teams
 
 ### Blind Travelers (mystery trip)
@@ -56,7 +64,7 @@
     </tr>
 </table>
 
-### The Reactors ⚙️🥇
+### The Reactors ⚙️
 
 <table>
     <tr>
@@ -132,7 +140,7 @@
     </tr>
 </table>
 
-### Zagreb 🏆🥇
+### Zagreb 🏆
 
 <table>
     <tr>
@@ -241,7 +249,7 @@
     </tr>
 </table>
 
-### Code Quantum (Choîxteau) 🎨🥇
+### Code Quantum (Choîxteau) 🎨
 
 <table>
     <tr>
@@ -268,7 +276,7 @@
     </tr>
 </table>
 
-### Les Sages du Péril 👩‍🏫🥇
+### Les Sages du Péril 👩‍🏫
 
 <table>
     <tr>
@@ -295,7 +303,7 @@
     </tr>
 </table>
 
-### NPM Run Stars 🚀🥇
+### NPM Run Stars 🚀
 
 <table>
     <tr>
