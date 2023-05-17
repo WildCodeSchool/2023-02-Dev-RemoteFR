@@ -6,19 +6,19 @@ Ici, nous allons consigner les informations relatives à nos projets et hackatho
 
 ### Technologies
 
-[![skills](https://skillicons.dev/icons?i=js,html,css,git,github,figma&perline=3)](#)
+[![skills](https://skillicons.dev/icons?i=js,html,css,git,github,figma&perline=4)](#)
 
 ## [Projet 2](./Projet2.md)
 
 ### Technologies
 
-[![skills](https://skillicons.dev/icons?i=react,vite,php,tailwind,nodejs,postman,git,github,githubactions,figma&perline=3)](#)
+[![skills](https://skillicons.dev/icons?i=react,vite,php,tailwind,nodejs,postman,git,github,githubactions,figma&perline=4)](#)
 
 ## [Hackathon](./Hackathon1.md)
 
 ### Technologies
 
-[![skills](https://skillicons.dev/icons?i=react,vite,php,postman,git,github,figma&perline=3)](#)
+[![skills](https://skillicons.dev/icons?i=react,vite,php,postman,git,github,figma&perline=4)](#)
 
 ## Show your support
 
