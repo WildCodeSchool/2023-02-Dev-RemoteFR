@@ -2,7 +2,23 @@
 
 Ici, nous allons consigner les informations relatives à nos projets et hackathon.
 
--   [Hackathon](./Hackathon1.md)
+## [Projet 1](./Projet1.md)
+
+### Technologies
+
+[![skills](https://skillicons.dev/icons?i=js,html,css,git,github,figma&perline=3)](#)
+
+## [Projet 2](./Projet2.md)
+
+### Technologies
+
+[![skills](https://skillicons.dev/icons?i=react,vite,php,tailwind,nodejs,postman,git,github,githubactions,figma&perline=3)](#)
+
+## [Hackathon](./Hackathon1.md)
+
+### Technologies
+
+[![skills](https://skillicons.dev/icons?i=react,vite,php,postman,git,github,figma&perline=3)](#)
 
 ## Show your support
 
