@@ -41,10 +41,10 @@
         <td>
             <ul>
                 <li>Hafsa Ait Ouarraou</li>
-                <li>Youcef Aissat</li>
                 <li>Jeremy Dohin</li>
                 <li>Thibaut Resse</li>
                 <li>Victor Fabier</li>
+                <li>Youcef Aissat</li>
             </ul>
         </td>
         <td>
@@ -68,10 +68,10 @@
         <td>
             <ul>
                 <li>Chloé Elle</li>
-                <li>Sébastien Birolleau</li>
-                <li>Pierre Lacoste</li>
-                <li>Vincent Daviaud</li>
                 <li>Kylian Gronnier</li>
+                <li>Pierre Lacoste</li>
+                <li>Sébastien Birolleau</li>
+                <li>Vincent Daviaud</li>
             </ul>
         </td>
         <td>
@@ -148,10 +148,10 @@
     <tr>
         <td>
             <ul>
-                <li>Roxane Belahcene</li>
-                <li>Badis Beloucif</li>
-                <li>Samuel Faber</li>
                 <li>Alexis Chesneau</li>
+                <li>Badis Beloucif</li>
+                <li>Roxane Belahcene</li>
+                <li>Samuel Faber</li>
             </ul>
         </td>
         <td>
@@ -174,9 +174,9 @@
     <tr>
         <td>
             <ul>
-                <li>Oyhana Mahjoubi</li>
-                <li>Enzo Castagnos</li>
                 <li>Denis Dezest</li>
+                <li>Enzo Castagnos</li>
+                <li>Oyhana Mahjoubi</li>
             </ul>
         </td>
         <td>
