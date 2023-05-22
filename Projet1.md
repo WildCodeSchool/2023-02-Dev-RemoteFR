@@ -13,10 +13,10 @@
     <tr>
         <td>
             <ul>
-                <li>Oyhana Mahjoubi</li>
                 <li>Enzo Castagnos</li>
                 <li>Jeremy Dohin</li>
                 <li>Kylian Gronnier</li>
+                <li>Oyhana Mahjoubi</li>
             </ul>
         </td>
         <td>
@@ -39,9 +39,9 @@
     <tr>
         <td>
             <ul>
-                <li>Roxane Belahcene</li>
-                <li>Pierre Lacoste</li>
                 <li>Badis Beloucif</li>
+                <li>Pierre Lacoste</li>
+                <li>Roxane Belahcene</li>
                 <li>Thibaut Resse</li>
             </ul>
         </td>
@@ -66,10 +66,10 @@
         <td>
             <ul>
                 <li>Alaric Henrot</li>
-                <li>Nicolas Lopes</li>
-                <li>Jean-Baptiste Noiraud</li>
                 <li>Anne Louis</li>
                 <li>Charlotte Charrier</li>
+                <li>Jean-Baptiste Noiraud</li>
+                <li>Nicolas Lopes</li>
             </ul>
         </td>
         <td>
@@ -120,9 +120,9 @@
         <td>
             <ul>
                 <li>Hafsa Ait Ouarraou</li>
-                <li>Vincent Daviaud</li>
                 <li>Samuel Faber</li>
                 <li>Victor Fabier</li>
+                <li>Vincent Daviaud</li>
             </ul>
         </td>
         <td>
@@ -145,11 +145,11 @@
     <tr>
         <td>
             <ul>
-                <li>Chloé Elle</li>
-                <li>Youcef Aissat</li>
-                <li>Sébastien Birolleau</li>
-                <li>Denis Dezest</li>
                 <li>Alexis Chesneau</li>
+                <li>Chloé Elle</li>
+                <li>Denis Dezest</li>
+                <li>Sébastien Birolleau</li>
+                <li>Youcef Aissat</li>
             </ul>
         </td>
         <td>
@@ -172,11 +172,11 @@
     <tr>
         <td>
             <ul>
-                <li>Victor Brito</li>
-                <li>Romaric Yi</li>
                 <li>Amani Nefzi</li>
                 <li>Anthony Lasternas</li>
+                <li>Romaric Yi</li>
                 <li>Rudy Rano</li>
+                <li>Victor Brito</li>
             </ul>
         </td>
         <td>
