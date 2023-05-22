@@ -1,6 +1,6 @@
 # Hackathon 1 | 12/05/2023
 
-## LEGENDES
+## LÉGENDE
 
 -   🏆 : Gagnant du hackathon
 -   ⚙️ : Gagnant du prix de la technique
