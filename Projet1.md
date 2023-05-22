@@ -54,6 +54,60 @@
     </tr>
 </table>
 
+### NextBook
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Alaric Henrot</li>
+                <li>Nicolas Lopes</li>
+                <li>Jean-Baptiste Noiraud</li>
+                <li>Anne Louis</li>
+                <li>Charlotte Charrier</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool/2023-02-JS-RemoteFR-DeVMX-P1-G3">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://wildcodeschool.github.io/2023-02-JS-RemoteFR-DeVMX-P1-G3">La production</a>
+        </td>
+    </tr>
+</table>
+
+### Quîzzz
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Damien Arnaud</li>
+                <li>Frederico Cassola</li>
+                <li>Marine Deveza</li>
+                <li>Trund Nguyen</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool/2023-02-JS-RemoteFR-DeVMX-P1-G1">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://wildcodeschool.github.io/2023-02-JS-RemoteFR-DeVMX-P1-G1">La production</a>
+        </td>
+    </tr>
+</table>
+
+
 ### Ravenclaw
 
 <table>
@@ -103,6 +157,33 @@
         </td>
         <td>
             <a href="https://ddz6ii.github.io/project-portfolio">La production</a>
+        </td>
+    </tr>
+</table>
+
+### ToDo Wild
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Victor Brito</li>
+                <li>Romaric Yi</li>
+                <li>Amani Nefzi</li>
+                <li>Anthony Lasternas</li>
+                <li>Rudy Rano</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/WildCodeSchool/2023-02-JS-RemoteFR-DeVMX-P1-G2">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://wildcodeschool.github.io/2023-02-JS-RemoteFR-DeVMX-P1-G2">La production</a>
         </td>
     </tr>
 </table>
