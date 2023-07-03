@@ -1,4 +1,4 @@
-# Hackathon 1 | 12/05/2023
+# Hackathon 2 | 30/06/2023
 
 ## LÉGENDE
 
