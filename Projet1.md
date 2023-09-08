@@ -187,3 +187,84 @@
         </td>
     </tr>
 </table>
+
+### Cookie
+
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Quantin Massias</li>
+                <li>Marta Miske</li>
+                <li>Anthony Genty</li>
+                <li>Floriane Berthier</li>
+                <li>Sacha Cometti</li>
+                <li>Jérémy Maillard</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/Aikofr/Space_cookie">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://aikofr.github.io/Space_cookie">La production</a>
+        </td>
+    </tr>
+</table>
+
+### Star Dust Clicker
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Cyrielle Thomas</li>
+                <li>Laure Graves</li>
+                <li>Robin Denis</li>
+                <li>Nicolas Panis</li>
+                <li>Kévin Diby</li>
+                <li>Lucas Degret</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://mrcelsus.github.io/StarDustClicker/">Le repo ici</a>
+        </td>
+        <td>
+            <a href="https://github.com/MrCelsus/StarDustClicker">La production</a>
+        </td>
+    </tr>
+</table>
+
+### Wild Eat
+<table>
+    <tr>
+        <th>Team de développeur</th>
+        <th>Github</th>
+        <th>Production</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Victor Jumaire</li>
+                <li>Camille Fabry</li>
+                <li>Benoît Beranger</li>
+                <li>Ugo Bourgoin</li>
+                <li>Adrien Turcé-Perron</li>
+            </ul>
+        </td>
+        <td>
+            <a href="https://github.com/Jumzer/wild_eats">Le repo ici</a>
+        </td>
+        <td>
+           <a href="!#">❌</a>
+        </td>
+    </tr>
+</table>
